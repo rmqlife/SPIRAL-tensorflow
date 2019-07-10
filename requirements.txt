@@ -1,7 +1,7 @@
 ipdb
 tqdm
 numpy
-scipy
+scipy==0.16
 pillow
 pathlib
 cloudpickle
