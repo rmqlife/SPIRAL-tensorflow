@@ -6,3 +6,4 @@ pillow
 pathlib
 cloudpickle
 future-fstrings
+tensorflow
